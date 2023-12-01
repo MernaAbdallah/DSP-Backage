@@ -1,6 +1,5 @@
 # Digital Signal Processing Algorithms in C#
 
-[Project Description]
 
 A collection of C# classes and algorithms for digital signal processing. These algorithms provide a range of functions to manipulate and analyze digital signals, making it a valuable tool for various signal processing tasks.
 
@@ -14,7 +13,7 @@ A collection of C# classes and algorithms for digital signal processing. These a
 
 ## Installation
 
-[Include instructions on how to install your package.]
+
 
 To use these digital signal processing algorithms in your C# project, you can either:
 
@@ -38,7 +37,7 @@ To use these digital signal processing algorithms in your C# project, you can ei
 
 ## Usage
 
-[Provide examples and usage instructions for your package.]
+
 
 To get started, include the necessary namespaces in your C# code:
 
@@ -54,7 +53,6 @@ DiscreteFourierTransform dft = new DiscreteFourierTransform(inputSignal);
 double[] frequencySpectrum = dft.Compute();
 ```
 
-Please refer to the specific class documentation and comments for more information on how to use each algorithm effectively.
 
 ## Algorithms Overview
 
@@ -81,18 +79,18 @@ Below is a list of the available algorithms in this package:
 - TimeDelay.cs
 - Utilitites.cs
 
-Please consult the documentation and code comments for each class to understand its functionality and how to use it.
+
 
 ## Contributing
 
-We welcome contributions from the community. If you'd like to contribute to this project, please follow these steps:
+I welcome contributions from the community. If you'd like to contribute to this project, please follow these steps:
 
 1. Fork this repository.
 2. Create a new branch with a descriptive name for your feature or bug fix.
 3. Make your changes and commit them with clear and concise commit messages.
 4. Create a pull request, explaining the changes you've made.
 
-We appreciate your help in improving this package!
+
 
 ---
 
